@@ -1,0 +1,1 @@
+for i in `find . -name *.jsx | sort ` ; do echo "<!--<script src=\"$i\" type=\"text/babel\"></script>-->" ; done
