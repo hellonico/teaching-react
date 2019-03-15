@@ -12,9 +12,10 @@
     "jest": "^24.1.0",
     "promise": "^8.0.2",
     "react": "^16.8.2",
-    "react-dom": "^16.8.2"
+    "react-dom": "^16.8.2",
+    "react-innertext": "^1.1.3"
   },
   "scripts": {
-    "start": "jest"
+    "test": "jest --watch"
   }
 }

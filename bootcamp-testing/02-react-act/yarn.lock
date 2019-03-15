@@ -2707,6 +2707,11 @@ react-dom@^16.8.2:
     prop-types "^15.6.2"
     scheduler "^0.13.2"
 
+react-innertext@^1.1.3:
+  version "1.1.3"
+  resolved "https://registry.yarnpkg.com/react-innertext/-/react-innertext-1.1.3.tgz#5d0b85abdae0949f518830e09ee97e6dcf0680e9"
+  integrity sha512-rDKwcck8NC147TUibATuNhjw0tJb5e2Vz0DiIZKkklF107Bn3GDhOBmVOF4FUWWU0clRprXu39GhnC9UWwomPA==
+
 react-is@^16.8.1:
   version "16.8.2"
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.8.2.tgz#09891d324cad1cb0c1f2d91f70a71a4bee34df0f"
