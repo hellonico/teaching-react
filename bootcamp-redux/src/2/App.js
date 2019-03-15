@@ -2,7 +2,7 @@ import React from 'react';
 
 import { connect } from 'react-redux';
 
-import { activateGeod, closeGeod } from './redux';
+import { activateGeod, closeGeod } from './loggingredux';
 
 class MyButton extends React.Component {
   render() {

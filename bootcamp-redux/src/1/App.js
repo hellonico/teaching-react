@@ -16,7 +16,7 @@ export class App extends React.Component {
         ) : (
           <button
             onClick={() =>
-              this.props.activateGeod({ title: 'I am a geo 1 dude!' })
+              this.props.activateGeod({ title: 'I can change!' })
             }
           >
             Geo 1

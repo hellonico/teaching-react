@@ -17,4 +17,9 @@ store.dispatch({
   text: 'Read the docs'
 })
 
+store.dispatch({
+  type: 'ADD_TODO',
+  text: 'Enjoy the weekend'
+})
+
 console.log(store.getState())
